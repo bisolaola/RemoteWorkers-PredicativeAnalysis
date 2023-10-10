@@ -22,7 +22,7 @@ library(corrplot)
 library(gridExtra)
 
 ###set the working directory and call the data set###
-setwd("/Users/bisolaolagoke/Desktop/BU/Thesis/Data")
+setwd("/Users/bisolaolagoke/Desktop/BU/Data")
 
 data <- read_excel("ewcs6_2015_ukda_1904.xlsx")
 ###43850 observations and 374 variables 
