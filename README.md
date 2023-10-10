@@ -21,3 +21,32 @@ To conduct a predictive analysis on the factors that influence the job satisfact
 The findings supports the statistical assumptions of Hackman and Oldham (1976). Herzberg (1976) theory, on the other hand, produced an inconsistent result as assumptions of 
 intrinsic factors held true while untrue for extrinsic factors. Furthermore, the research indicated that remote workers are primarily influenced by psychological and motivational factors. 
 The top three factors strongly associated with job satisfaction were identified as motivation, achievement, and advancement, while job security and supervision exhibited significant relevance to job dissatisfaction.
+
+# Theortical Framework 
+![Theoretical Framework](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/1e5cea38-d75f-4984-95dd-b94d4a8bf7ff)
+
+Hypothesis 1: Autonomy has positive relationship with motivation
+
+
+Hypothesis 2: Autonomy has positive relationship with JS
+
+
+Hypothesis 3: Feedback has a positive relationship with motivation
+
+
+Hypothesis 4: Feedback has a positive relationship with JS 
+
+
+Hypothesis 5: Task significance has a positive relationship with motivation
+
+
+Hypothesis 6: Task significance has a positive relationship with JS 
+
+
+Hypothesis 7: Motivation has a positive relationship with JS
+
+# LASSO Regression result
+![Picture 2](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/c656bfa4-fc26-4e23-a619-fea0ed6db2a5)
+
+# LASSO Coefficient Shrinkage 
+![Picture 3](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/36047758-1f61-4d6b-ae3e-477d45f872c5)
