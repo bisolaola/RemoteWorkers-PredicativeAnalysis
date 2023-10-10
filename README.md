@@ -1,9 +1,9 @@
 # Remote Workers Predicative Analysis
-This research delves into the prediction of factors impacting job satisfaction among remote workers in the UK by 
+This research delves into the prediction of factors impacting job satisfaction among remote workers in the UK by: 
 
-- assessing the accuracy of two job satisfaction management theories in a new dataset: Hackman and Oldham's (1976) Job Characteristic Model (JCM) and Herzberg's (1976) Two-Factor Theory.
-- investigates the mediating role of motivation in the relationship between job satisfaction and key elements such as autonomy, feedback, and task significance. 
-- scrutinizes the influence of intrinsic factors (advancement, the nature of the work itself, growth opportunities, recognition, and career advancement) and extrinsic factors (interpersonal relationships, salary, supervision, working conditions, and job security) on job satisfaction. 
+- Assessing the accuracy of two job satisfaction management theories in a new dataset: Hackman and Oldham's (1976) Job Characteristic Model (JCM) and Herzberg's (1976) Two-Factor Theory.
+- Investigating the mediating role of motivation in the relationship between job satisfaction and key elements such as autonomy, feedback, and task significance. 
+- Scrutinising the influence of intrinsic factors (advancement, the nature of the work itself, growth opportunities, recognition, and career advancement) and extrinsic factors (interpersonal relationships, salary, supervision, working conditions, and job security) on job satisfaction. 
 
 A robust sample size of over 10,000 remote workers in the United Kingdom (only) was examined using a secondary dataset obtained from the sixth European Working Conditions Survey in 2015. The findings were subjected to scrutiny through three distinct statistical methods and advanced machine learning tools: Linear Mediation Model, Least Absolute Shrinkage and Selection Operator (LASSO), and Multiple Linear Regression (MLR).
 
