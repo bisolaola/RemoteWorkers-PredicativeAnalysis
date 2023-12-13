@@ -47,5 +47,4 @@ Hypothesis 7: Motivation has a positive relationship with JS
 # LASSO Regression result
 ![Picture 2](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/c656bfa4-fc26-4e23-a619-fea0ed6db2a5)
 
-# LASSO Coefficient Shrinkage 
-![Picture 3](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/36047758-1f61-4d6b-ae3e-477d45f872c5)
+
