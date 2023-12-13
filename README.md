@@ -5,7 +5,7 @@ This research delves into the prediction of factors impacting job satisfaction a
 - Investigating the mediating role of motivation in the relationship between job satisfaction and key elements such as autonomy, feedback, and task significance. 
 - Scrutinising the influence of intrinsic factors (advancement, the nature of the work itself, growth opportunities, recognition, and career advancement) and extrinsic factors (interpersonal relationships, salary, supervision, working conditions, and job security) on job satisfaction. 
 
-A robust sample size of over 10,000 remote workers in the United Kingdom (only) was examined using a secondary dataset obtained from the sixth European Working Conditions Survey in 2015. The findings were subjected to scrutiny through three distinct statistical methods and advanced machine learning tools: Linear Mediation Model, Least Absolute Shrinkage and Selection Operator (LASSO), and Multiple Linear Regression (MLR).
+A robust sample size of over 10,000 remote workers in the United Kingdom was examined using a secondary dataset obtained from the sixth European Working Conditions Survey in 2015. The findings were subjected to scrutiny through three distinct statistical methods and advanced machine learning tools: Linear Mediation Model, Least Absolute Shrinkage and Selection Operator (LASSO), and Multiple Linear Regression (MLR).
 
 # Research Aim
 To conduct a predictive analysis on the factors that influence the job satisfaction of remote worker in the UK and to explore the mediating role of motivation in this context.
