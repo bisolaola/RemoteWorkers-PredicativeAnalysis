@@ -44,7 +44,20 @@ Hypothesis 6: Task significance has a positive relationship with JS
 
 Hypothesis 7: Motivation has a positive relationship with JS
 
-# LASSO Regression result
+# Regression Result:
+
+# Regression of Outcome Variable (JS) on Explanatory Variables (Dual-factor) and Control Variables 
+![Screenshot 2023-12-19 at 3 47 57 pm](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/97425962-dfcf-484c-a8e7-1eca49c2a8f6)
+
+# Regression of Mediator Variable (Motivation) on Explanatory Variables (JCM) and Control Variables 
+![image](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/2447a6f4-33a3-4c14-a758-2b556f8ddfda)
+
+# Regression of Outcome Variable (JS) on Explanatory Variables (JCM), Meditating Variable and Control Variables 
+![image](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/f77aaa1e-e82f-4b33-93ce-0a82c7515a29)
+
+# LASSO Regression Result and Level of Importance to the Outcome Variable Job Satisfation 
+![Alt text](image-1.png)
+# LASSO Regression Result Chart 
 ![Picture 2](https://github.com/bisolaola/RemoteWorkers-PredicativeAnalysis/assets/137617628/c656bfa4-fc26-4e23-a619-fea0ed6db2a5)
 
 
